@@ -1,0 +1,6 @@
+场景ID	场景名称	场景管理脚本	BGMID		备注
+n	s	s	n		
+SceneID	SceneName	SceneHandler	BGMID		
+10001	MainScene	MainSceneHandler			主界面场景
+10002	BattleScene	BattleSceneHandler			战斗场景
+10003	TopdownDemo	TopdownDemoHandler			俯视角Demo

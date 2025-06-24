@@ -1,0 +1,19 @@
+{
+  "SourceDirectory": "/config",
+  "JsonDirectory": "/export/Assets/Resources/Configs",
+  "CSharpDirectory": "/export/Assets/Scripts/Game/Config/GameConfig",
+  "SourcePostfix": ".xls",
+  "JsonPostfix": ".txt",
+  "CSharpPostfix": ".cs",
+  "SourceEncoding": "GB2312",
+  "JsonEncoding": "UTF8",
+  "CSharpEncoding": "UTF8",
+  "DoubleKeyIDPrefix": "^",
+  "JsonFormatting": 1,
+  "NameSpaceList": [
+    "System",
+    "System.Collections.Generic",
+    "UnityEngine",
+    "Battle"
+  ]
+}

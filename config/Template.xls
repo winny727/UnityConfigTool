@@ -1,0 +1,6 @@
+ID	标题1	标题2	标题3	标题4	标题5	标题6		备注
+n	b	n	f	s	l:n	l2:f		
+ID	BoolData	IntData	FloatData	StringData	ListData	List2Dtata		
+10001	TRUE	123	1.23	字符串1	1|2|3|4	1.23|45.6|0.789;2.1|2.2		备注1
+10002	FALSE	456	45.6	字符串2	5|6|7			备注2
+10003	TRUE	789	0.789	字符串3	8|9			备注3

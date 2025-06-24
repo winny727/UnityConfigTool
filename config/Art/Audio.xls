@@ -1,0 +1,17 @@
+音频ID	音频路径	是否循环（仅BGM有效）	是否BGM	音量大小	下一个音频ID（仅BGM有效）		备注
+n	s	b	b	f	n		
+AudioID	Path	IsLoop	IsBGM	VolumeScale	NextAudioID		
+10001	Audio/System/Button/g_ui_back	FALSE	FALSE	1			返回按钮
+10002	Audio/System/Button/g_ui_btn_n	FALSE	FALSE	1			普通按钮
+10003	Audio/System/Button/g_ui_confirm	FALSE	FALSE	1			确认按钮
+10004	Audio/System/g_ui_popup	FALSE	FALSE	1			弹出提示
+							
+20001	Audio/Battle/Enemy_Attack	FALSE	FALSE	1			敌人攻击
+20002	Audio/Battle/Enemy_Warning	FALSE	FALSE	1			敌人攻击预警
+20003	Audio/Battle/Enemy_Warning_Finish	FALSE	FALSE	1			敌人预警结束
+20004	Audio/Battle/Player_Attack	FALSE	FALSE	1			玩家攻击
+20005	Audio/Battle/Player_Defend_Sucess	FALSE	FALSE	1			玩家防御成功
+20006	Audio/Battle/Player_Hurt	FALSE	FALSE	1			玩家受击
+							
+30001	Audio/Battle/Win	FALSE	FALSE	1			战斗胜利
+30002	Audio/Battle/GameOver	FALSE	FALSE	1			战斗失败

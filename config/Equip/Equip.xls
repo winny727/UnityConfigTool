@@ -1,0 +1,8 @@
+ID	攻击力	防御力	攻击消耗能量	防御消耗能量	能量转化率		备注
+n	f	f	f	f	f		
+ID	AttackVal	DefenseVal	AttackEnergyCost	DefenseEnergyCost	EnergyRatio		
+1001	5	10	5	3	4		
+1002	10	15	8	2	3		
+1003	15	20	10	1	2		
+1004	20	25	15	0	1		
+1005	40	10	20	2	5		
